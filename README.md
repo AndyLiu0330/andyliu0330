@@ -47,12 +47,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndyLiu0330&show_icons=true&theme=tokyonight&hide_border=true" alt="Andy's GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyLiu0330&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AndyLiu0330&theme=tokyonight" alt="Andy's GitHub stats" height="180">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AndyLiu0330&theme=tokyonight" alt="Top languages by repo" height="180">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndyLiu0330&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165">
+  <img src="https://streak-stats.demolab.com/?user=AndyLiu0330&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165">
 </p>
 
 ## 🏆 GitHub Achievements
